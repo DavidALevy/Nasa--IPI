@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Nasa--IPI/static/css/main.78c41fab.chunk.css",
+    "main.js": "/Nasa--IPI/static/js/main.c2d2e223.chunk.js",
+    "main.js.map": "/Nasa--IPI/static/js/main.c2d2e223.chunk.js.map",
+    "runtime-main.js": "/Nasa--IPI/static/js/runtime-main.34f22e78.js",
+    "runtime-main.js.map": "/Nasa--IPI/static/js/runtime-main.34f22e78.js.map",
+    "static/js/2.7d579579.chunk.js": "/Nasa--IPI/static/js/2.7d579579.chunk.js",
+    "static/js/2.7d579579.chunk.js.map": "/Nasa--IPI/static/js/2.7d579579.chunk.js.map",
+    "static/js/3.58cca477.chunk.js": "/Nasa--IPI/static/js/3.58cca477.chunk.js",
+    "static/js/3.58cca477.chunk.js.map": "/Nasa--IPI/static/js/3.58cca477.chunk.js.map",
+    "index.html": "/Nasa--IPI/index.html",
+    "static/css/main.78c41fab.chunk.css.map": "/Nasa--IPI/static/css/main.78c41fab.chunk.css.map",
+    "static/js/2.7d579579.chunk.js.LICENSE.txt": "/Nasa--IPI/static/js/2.7d579579.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34f22e78.js",
+    "static/js/2.7d579579.chunk.js",
+    "static/css/main.78c41fab.chunk.css",
+    "static/js/main.c2d2e223.chunk.js"
+  ]
+}
